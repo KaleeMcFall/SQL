@@ -1,3 +1,5 @@
+#This is my final SQL project in the data analytics program I'm doing. WIthin this analysis I was looking at a large dataset from a music store containing albums, artists, customers, employees and more!
+
 #Show Customers (their full names, customer ID, and country) who are not in the US. (Hint: != or <> can be used to say "is not equal to").
 SELECT firstname, lastname, customerid, country
 FROM chinook.customers
